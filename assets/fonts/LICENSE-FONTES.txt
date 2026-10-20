@@ -1,0 +1,1 @@
+Fontes em assets/fonts: Instrument Serif, Geist e Geist Mono. Licença SIL Open Font License 1.1, obtidas dos pacotes npm @fontsource e auto-hospedadas.
